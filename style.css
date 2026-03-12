@@ -23,8 +23,9 @@ main {
   max-width: 300px;
 }
 p.category {
+    font-weight: bold;
   color: hsl(212, 21%, 14%);
-  font-size: 12px;
+  font-size: 10px;
   text-transform: uppercase;
   margin-bottom: 10px;
   margin-top: 10px;
@@ -65,6 +66,8 @@ main img {
 }
 
 .author {
+  font-weight: bold;
+  font-size: 12px;
   display: flex;
   align-items: center;
   margin-top: 15px;
